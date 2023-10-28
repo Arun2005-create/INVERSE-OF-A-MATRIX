@@ -15,6 +15,7 @@ using the np.linalg.inverse_of_matrix(),we can find the inverse of matrix in giv
 End the program
 
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by: Arun Kumar B
 #RegisterNumber:23004514
@@ -22,6 +23,7 @@ import numpy as np
 A= np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse = np.linalg.inv(A)
 print(inverse)
+```
 ## Output:
 ![inverse](https://github.com/Arun2005-create/INVERSE-OF-A-MATRIX/assets/138849356/ecc123fa-d0b3-49fb-a30f-57dc58f7f46b)
 
